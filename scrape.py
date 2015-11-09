@@ -1,4 +1,3 @@
-import hashlib
 import os.path
 import requests # http://docs.python-requests.org/en/latest/index.html
 import time
